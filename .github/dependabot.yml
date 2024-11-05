@@ -4,3 +4,8 @@ updates:
     directory: ".github/workflows" # Location of package manifests
     schedule:
       interval: "weekly"
+    reviewers: 
+      - wulfland
+    labels:
+      - "github-actions"
+      - "dependencies"
